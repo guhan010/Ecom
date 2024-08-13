@@ -1,5 +1,6 @@
 import "./App.css";
-import Main from "./components/Main";
+import Data from "./components/Data";
+// import Main from "./components/Main";
 // import Counter from "./components/Counter";
 // import GrandParent from "./components/GrandParent";
 // import Greet from "./components/Greet";
@@ -24,7 +25,8 @@ function App() {
       </Routes> */}
       {/* <GrandParent /> */}
       {/* <Counter /> */}
-      <Main />
+      {/* <Main /> */}
+      <Data />
     </div>
   );
 }
